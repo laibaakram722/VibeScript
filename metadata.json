@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Script - Viral Short-Form Caption Generator",
+  "description": "Elite social media copywriter and growth strategist transforming raw video topics into high-retention, publish-ready captions for TikTok, Instagram Reels, and YouTube Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

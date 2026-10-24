@@ -8,7 +8,16 @@ Designed in a high-contrast, editorial **monochrome black & white** aesthetic.
 
 ---
 
-## Key Features
+- **4 Core Workspace Tabs in Sidebar:**
+  - **Home:** Main command center with glowing horizon arc, prompt bar, and recently generated scripts.
+  - **YouTube:** Dedicated YouTube Shorts workspace with tailored CTR intrigue captions and side-by-side mobile preview.
+  - **TikTok:** Dedicated TikTok FYP workspace with completion loops, FYP tags, and side-by-side mobile preview.
+  - **Instagram:** Dedicated Instagram Reels workspace with save/share prompts, Reels tags, and side-by-side mobile preview.
+
+- **Dual-Language & Roman Urdu Support:**
+  - Native comprehension and generation for both **English** and **Roman Urdu** (Urdu written in Latin / English alphabet).
+  - Generates culturally calibrated, hyper-aggressive Roman Urdu hooks (e.g. *Yeh ghalti foran band karo 🛑*, *Yeh secret koi nahi batata 🤫*, *99% log yeh ghalti karte 💀*) under 7 words with 1 emoji.
+  - Auto-Detects Roman Urdu or allows 1-click toggling between Roman Urdu and English.
 
 - **Strict 5-Point Blueprint Engine:**
   - **Line 1 (The Hook):** Aggressive, curiosity-inducing hook line strictly under 7 words containing exactly 1 relevant emoji. Zero generic intros like *"Are you ready?"*.

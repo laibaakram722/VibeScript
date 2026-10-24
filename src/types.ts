@@ -4,11 +4,14 @@ export type Tone = 'engaging' | 'funny' | 'inspirational' | 'educational' | 'sto
 
 export type HookAngle = 'curiosity' | 'contrarian' | 'shocking' | 'mistake' | 'how-to';
 
+export type Language = 'auto' | 'roman-urdu' | 'english';
+
 export interface GeneratedCaption {
   id: string;
   topic: string;
   platform: Platform;
   tone: Tone;
+  language?: Language;
   fullCaption: string;
   hook: string;
   valueCta: string;
